@@ -1,0 +1,103 @@
+﻿body {
+    background-image: url('../images/bgo3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #c71e6d;
+}
+
+    a:hover {
+        color: #de5495;
+    }
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.kutu {
+    width:1000px;
+    height:1000px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+
+    .kutu .slider {
+        width: 1000px;
+        height: 150px;
+        float: left;
+        background-color: #1e1e1e;
+        opacity:95%;
+        color:white;
+        font-family:Vivaldi;
+        line-height: 150px;
+        font-size: 80px;
+    }
+
+    .kutu .menu {
+        width: 1000px;
+        height: 40px;
+        float: left;
+        background-color: #1e1e1e;
+        margin-top: 5px;
+        color: white;
+        opacity: 90%;
+    }
+
+    .kutu .govde {
+        width: 1000px;
+        height: 600px;
+        float: left;
+        margin-top: 5px;
+        
+    }
+
+        .kutu .govde .govdebaslik {
+            width: 1000px;
+            height: 100px;
+            float: left;
+            background-color: #1e1e1e;
+            opacity: 90%;
+            line-height: 100px;
+            font-family:'Century Gothic';
+            font-size: 30px;
+        }
+
+
+        .kutu .govde .govdeicerik {
+            width: 700px;
+            height: 500px;
+            background-color: #1e1e1e;
+            opacity: 90%;
+            float:left;
+            font-family:'Century Gothic';
+            font-size: 15px;
+            
+        }
+
+        .kutu .govde .govderesim {
+            width:300px;
+            height: 500px;
+            background-color: #1e1e1e;
+            opacity:90%;
+            float:right;
+        }
+
+    .kutu .alt {
+        width: 100%;
+        height: 40px;
+        float: left;
+        background-color: #1e1e1e;
+        margin-top:20px;
+    }
+
+
+
+
+
